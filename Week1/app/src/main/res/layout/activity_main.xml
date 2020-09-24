@@ -9,6 +9,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
     <!-- todo (01) Добавьте ImageView с id="@+id/dice_image", layout_width="wrap_content", layout_height="wrap_content", layout_gravity="center_horizontal", srcCompat="@drawable/empty_dice" -->
 
     <ImageView
