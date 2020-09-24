@@ -48,6 +48,7 @@ class MainActivity : AppCompatActivity() {
         diceImage.setImageResource(drawableResource)
 
     }
+
     // todo (07) Создайте переменную randomInt и присвойте ей значение Random().nextInt(6) + 1
     // todo (08) Создайте переменную drawableResource и присвойте ей значение when (randomInt) {
     //            1 -> R.drawable.dice_1
